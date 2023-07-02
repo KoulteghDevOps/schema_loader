@@ -15,7 +15,7 @@
 #
 #fi
 
-git clone https://github.com/raghudevopsb72/${COMPONENT}
+git clone https://github.com/KoulteghDevOps/${COMPONENT}
 cd $COMPONENT
 
 if [ "$SCHEMA_TYPE" == "mongo" ]; then
